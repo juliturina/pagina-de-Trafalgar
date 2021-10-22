@@ -1,0 +1,145 @@
+.container-1{
+    margin-top:106px;
+  }
+  .logo{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+  }
+  .logo-text{
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #233348;
+  text-align: left;
+  margin-top: 16px;
+  margin-left:12px;
+  }
+  .bg-logo{
+      background: #458FF6;
+      width: 41px;
+      height: 41px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .bg-logo-secondary{
+      background: #FFFFFF;
+      width: 41px;
+      height: 41px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center; 
+  }
+  
+  .btn-primary{
+      background: #458FF6;
+  border-radius: 55px;
+  width: 200px;
+  height: 56px;
+  border:none;
+  }
+  .divider{
+      background: #000000;
+  border-radius: 5px;
+  width: 56px;
+  height: 2px;
+  }
+  
+  .margin-custom{
+      margin-top: 192px;
+  }
+  
+  .card{
+      margin: 0 37px 34px 0;
+      padding: 54px 45px 47px 37px;
+      background: #FFFFFF;
+      width: 350px;
+      height: 354px;
+      box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+      border-radius: 20px;
+  }
+  
+  .btn-outline-primary{
+      width: 200px;
+      height: 56px;
+      border: 1.4px solid #458FF6;
+  box-sizing: border-box;
+  border-radius: 55px;
+  margin: 72px auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 40px;
+  }
+  
+  h2{
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  }
+  p{
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+  color: #7D7987;
+  }
+  
+  footer{
+      height: 432px;
+      background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  }
+  .contenedor-footer-1{
+      width: 391px;
+      margin-top: 124px;
+      
+  }
+  
+  .text-footer{
+      color:white;
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  }
+  
+  .contenedor-footer-2{
+      width: 100px;
+      margin-top:109px;
+      margin-left:145px;
+  }
+  .contenedor-footer-2,label{
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 60px;
+  
+  }
+  
+  .contenedor-footer-2{
+      
+      font-family: Mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  }
+  ul, li{
+      list-style: none;
+      padding: 0;
+  }
+  
